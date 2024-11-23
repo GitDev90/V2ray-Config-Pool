@@ -8,7 +8,6 @@ V2ray Config Pool is a free Windows application designed for users who need seam
 
 Whether you are a VPN enthusiast or a professional looking to optimize your network, V2ray Config Pool makes it easy to find and use configurations tailored to your needs.
 
-
 Key features include:
 
 * Global Database: Access a rich pool of configurations and subscriptions from 60+ countries.
