@@ -2,6 +2,7 @@ V2ray Config Pool - Multi-Protocol VPN Configuration Manager
 
 
 Description:
+
 V2ray Config Pool is a free Windows application designed for users who need seamless access to global VPN configurations. This powerful tool collects and organizes a wide range of protocols, including VMess, VLESS, Trojan, HTTPS, Shadowsocks, and WireGuard, from over 60 countries based on IPs and locations.
 
 
